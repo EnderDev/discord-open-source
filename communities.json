@@ -52,7 +52,7 @@
       "title": "Ubiq",
       "quote": "We've really enjoyed the swap to discord where we can provide an intuitive new member experience while protecting existing members from phishing and scams. This is key as we expand our bot capability to blockchain interaction like tipping.",
       "quoteSrc": "https://blog.ubiqsmart.com/ubiq-has-now-officially-moved-to-discord-85cf61e63571",
-      "inviteCode": "HF6vEGF",
+      "inviteCode": "RkPDGe6",
       "githubUrl": "https://github.com/ubiq"
     },
     {
@@ -194,12 +194,6 @@
       "githubUrl": "https://github.com/semuxproject/"
     },
     {
-      "logo": "hyperium.png",
-      "title": "Hyperium Client",
-      "inviteCode": "8GakFcT",
-      "githubUrl": "https://github.com/HyperiumClient"
-    },
-    {
       "logo": "organizr.png",
       "title": "Organizr",
       "quote": "HTPC/Homelab Services Organizer - Written in PHP",
@@ -283,7 +277,7 @@
       "logo": "tachiyomi.png",
       "title": "Tachiyomi",
       "quote": "Discord is a place where the community provides support for each other, freeing up GitHub issues.",
-      "inviteCode": "2dDQBv2",
+      "inviteCode": "tachiyomi",
       "githubUrl": "https://github.com/inorichi/tachiyomi"
     },
     {
@@ -489,22 +483,16 @@
       "githubUrl": "https://github.com/gridcoin-community"
     },
     {
-      "logo": "cdnjs.png",
-      "title": "cdnjs",
-      "quote": "We at cdnjs are using Discord to allow us to meet and interact with the community using our service, engaging in discussion about how we can better the service we provide.",
-      "inviteCode": "xVpxssn",
-      "githubUrl": "https://github.com/cdnjs"
-    },
-    {
       "logo": "vuesax.png",
       "title": "Vuesax",
       "inviteCode": "2kHwpfe",
       "githubUrl": "https://github.com/lusaxweb/vuesax"
     },
     {
-      "logo": "nuxtjs.png",
+      "logo": "nuxtjs.svg",
       "title": "Nuxt.js",
-      "inviteCode": "Y6HGQeP",
+      "inviteCode": "ps2h6QT",
+      "quote": "Discord allows Nuxt.js core team to chat and take decisions together in real-time. It engages our open source community to ask questions, get feedbacks for their projects and learn from each others.",
       "githubUrl": "https://github.com/nuxt/nuxt.js"
     },
     {
@@ -663,6 +651,34 @@
       "quoteSourceUrl": "https://flutter.dev/community",
       "inviteCode": "N7Yshp4",
       "githubUrl": "https://github.com/flutter/flutter"
+    },
+    {
+      "logo": "panda3d.png",
+      "title": "Panda3D",
+      "quote": "Our Discord server has enabled us not only to improve communication among developers, but also to foster an open community in which people are happy to help out fellow developers.",
+      "inviteCode": "UyepRMm",
+      "githubUrl": "https://github.com/panda3d/panda3d"
+    },
+    {
+      "logo": "denizenscript.png",
+      "title": "DenizenScript",
+      "quote": "Discord is the perfect live chat and interaction platform for the DenizenScript team to provide support to our users and teach new programmers.",
+      "inviteCode": "Q6pZGSR",
+      "githubUrl": "https://github.com/DenizenScript"
+    },
+    {
+      "logo": "mudlet_icon_minified_bw.png",
+      "title": "Mudlet",
+      "quote": "Using Discord to help Users connect to 1000's of MUD Servers and Mudlet developers to connect to each other...",
+      "inviteCode": "rmFG7Wr",
+      "githubUrl": "https://github.com/Mudlet/Mudlet"
+    },
+    {
+      "logo": "nestjs.svg",
+      "title": "NestJS",
+      "quote": "Discord both strengthened our community and dramatically improved discussion amongst the developers.",
+      "inviteCode": "G7Qnnhy",
+      "githubUrl": "https://github.com/nestjs"
     }
   ]
 }
